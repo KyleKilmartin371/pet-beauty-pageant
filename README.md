@@ -1,8 +1,6 @@
 # Pet Beauty Pageant
 
-## GitHub Repo
 
-![License](https://img.shields.io/badge/License%3A-MIT-green.svg)
 
 ## Screenshot
 
@@ -24,7 +22,7 @@ Express.js was used for the server and MySQL for the database along with Sequeli
 
 ## Links
 
-- **[GitHub Repo](https://github.com/mjos7/pet-beauty-pageant)**
+- **[GitHub Repo](https://github.com/KyleKilmartin371/pet-beauty-pageant)**
 - **[Deployed Live App](https://morning-woodland-90591.herokuapp.com/)**
 
 ## Installation
